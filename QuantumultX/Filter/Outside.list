@@ -746,9 +746,6 @@ HOST-KEYWORD,github,Outside
 HOST-KEYWORD,instagram,Outside
 HOST-KEYWORD,twitter,Outside
 HOST-KEYWORD,whatsapp,Outside
-HOST-KEYWORD,google,Outside
-HOST-SUFFIX,google.cn,Outside
-HOST-SUFFIX,google.com,Outside
 HOST-SUFFIX,x.com,Outside
 HOST-SUFFIX,1e100.net,Outside
 HOST-SUFFIX,2mdn.net,Outside
